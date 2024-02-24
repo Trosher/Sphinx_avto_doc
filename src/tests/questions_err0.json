@@ -1,0 +1,30 @@
+{
+  "questions0": {
+    "questions": "Are you human?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions1": {
+    "questions": "you like food?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions2": {
+    "questions": "do you like rainy weather?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions3": {
+    "questions": "are you scared?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions4": {
+    "questions": "Do you believe in God?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions5": {
+    "questions": "Aga?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions6": {
+    "questions": "Do you know why you're here?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  }
+}

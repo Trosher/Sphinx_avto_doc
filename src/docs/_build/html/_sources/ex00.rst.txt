@@ -1,0 +1,45 @@
+ex00 package
+============
+
+Submodules
+----------
+
+ex00.main module
+----------------
+
+.. automodule:: ex00.main
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ex00.my\_logger module
+----------------------
+
+.. automodule:: ex00.my_logger
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ex00.pars\_json module
+----------------------
+
+.. automodule:: ex00.pars_json
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ex00.user\_dialog module
+------------------------
+
+.. automodule:: ex00.user_dialog
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: ex00
+   :members:
+   :undoc-members:
+   :show-inheritance:

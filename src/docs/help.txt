@@ -1,0 +1,27 @@
+В корне проекта нужно использоват команду
+
+sphinx-apidoc -o docs .
+
+где -o docs путь куда будет формироваться заготовка для документации, 
+а . это указание что дока строится от нынешней дириктории
+
+потом добавляем основной сгенерированый фаил (modules.rst) в index.rst
+
+в конфиге в параметре html_theme указываем sphinx_rtd_theme
+
+Нужно добавить конструкцию в conf.py
+
+import os
+import sys
+
+sys.path.insert(0, os.path.abspath('../ex00'))
+
+нужно для указания корня проекта
+
+так же нужно заменить 
+
+extensions = []
+
+на
+
+extensions = ["sphinx.ext.todo", "sphinx.ext.viewcode", "sphinx.ext.autodoc"]

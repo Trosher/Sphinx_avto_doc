@@ -1,0 +1,54 @@
+{
+  "questions0": {
+    "questions": "Are you human?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions1": {
+    "questions": "you like food?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions2": {
+    "questions": "do you like rainy weather?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions3": {
+    "questions": "are you scared?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions4": {
+    "questions": "Do you believe in God?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions5": {
+    "questions": "Aga?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions6": {
+    "questions": "Do you know why you're here?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions7": {
+    "questions": "Do you like sweets?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions8": {
+    "questions": "Do you like music?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions9": {
+    "questions": "Do you want to die?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions10": {
+    "questions": "Do you want a beer right now?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions11": {
+    "questions": "Are you in a good mood?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  },
+  "questions12": {
+    "questions": "You're a replicant?",
+    "response": [ "yes", "no", "possibly", "i don`t now" ]
+  }
+}

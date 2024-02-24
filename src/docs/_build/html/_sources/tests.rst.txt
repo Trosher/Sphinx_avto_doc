@@ -1,0 +1,29 @@
+tests package
+=============
+
+Submodules
+----------
+
+tests.test\_pars\_json module
+-----------------------------
+
+.. automodule:: tests.test_pars_json
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+tests.test\_user\_dialog module
+-------------------------------
+
+.. automodule:: tests.test_user_dialog
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: tests
+   :members:
+   :undoc-members:
+   :show-inheritance:

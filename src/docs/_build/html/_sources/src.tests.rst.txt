@@ -1,0 +1,29 @@
+src.tests package
+=================
+
+Submodules
+----------
+
+src.tests.test\_pars\_json module
+---------------------------------
+
+.. automodule:: src.tests.test_pars_json
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.tests.test\_user\_dialog module
+-----------------------------------
+
+.. automodule:: src.tests.test_user_dialog
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: src.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:
